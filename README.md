@@ -1,2 +1,5 @@
-# GNU-R-ROUGH
-User Friendly Book for the Rough Set Libraries in GNU/R
+# Rough Sets with GNU/R 
+User friendly book for performing general rough set computations with the Rough Set Libraries in GNU/R.
+
+
+
