@@ -3,7 +3,7 @@ User friendly book for performing general/hybrid rough set computations with the
 
 I intend to cover all of the following:
 
-* Basics including Data Prepapration
+* Basics including Data Preparation
 * Most Imortant Rough Set Algorithm Implementations with "RoughSets" library
 * Fuzzy Rough Set Algorthm Implementations with "RoughSets" library
 * Evidential Clustering with "evise" 
